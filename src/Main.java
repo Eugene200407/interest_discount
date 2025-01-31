@@ -1,3 +1,4 @@
+//Eugene Ngatia CT101/G/20073/23
 import java.util.Scanner; // Importing Scanner for user input
 
 public class Main {
